@@ -1,0 +1,2 @@
+# VucutKitleEndeksi
+#www.patika.dev
