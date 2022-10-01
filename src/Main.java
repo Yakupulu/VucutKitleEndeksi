@@ -12,7 +12,7 @@ public class Main {
 
         endeks=kilo/(boy*boy);
 
-        System.out.println("Vucut Kitle Endeksiniz:"+endeks);
+        System.out.println("Vucut Kitle Endeksiniz : "+endeks);
 
     }
 }
